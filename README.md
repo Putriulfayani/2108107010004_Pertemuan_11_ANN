@@ -19,3 +19,6 @@ Dataset yang digunakan ada 2, yaitu :
 # Cara Menjalankan Code
 
 Cukup run semua cell secara berurutan mulai dari cell paling atas hingga paling bawah.
+
+# 
+Perbandingan antara model Artificial Neural Network (ANN) dan Support Vector Machine (SVM) menunjukkan bahwa keduanya memiliki performa yang rendah dalam melakukan prediksi. Namun, secara umum, model SVM tampaknya memberikan hasil yang sedikit lebih baik dibandingkan dengan model ANN berdasarkan evaluasi metrik yang tersedia. Meskipun demikian, kedua model masih memiliki nilai evaluasi yang buruk, yang dapat menunjukkan bahwa model yang dikembangkan mungkin memerlukan penyesuaian lebih lanjut atau pemilihan fitur yang lebih baik untuk meningkatkan performa prediksi.
